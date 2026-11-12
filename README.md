@@ -1,2 +1,2 @@
 # SitoApicoltura2027
-Sito solo frontend per l'apicoltura, obiettivo aggiornare il design e i concept
+Sito realizzato per Apicoltura GioEle di S.ambrogio (TO).
